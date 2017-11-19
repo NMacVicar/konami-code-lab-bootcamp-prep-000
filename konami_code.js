@@ -17,7 +17,4 @@ function init() {
     }
   }
   document.body.addEventListener('keydown', eventHandler)
-    
-  
-
 }
